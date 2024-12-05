@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Цвет при нажатии -->
+   
     <item android:state_pressed="true" android:drawable="@color/button_pressed" />
-    <!-- Цвет при выборе -->
+   
     <item android:state_selected="true" android:drawable="@color/blue" />
-    <!-- Цвет по умолчанию -->
+  
     <item android:drawable="@color/button_normal" />
 </selector>
