@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My personal diary 7</string>
+    <string name="edit_entry_hint">Edit Your Entry</string>
+    <string name="enter_entry_hint">Enter Your Entry</string>
+    <string name="save_button_text">Save</string>
+    <string name="hint_edit_your_entry">Enter your entry</string>
+    <string name="add_image">Add image</string>
+    <string name="delete_button">Delete</string>
+    <string name="save_button">Save</string>
+    <string name="hint_enter_your_entry">Enter your diary entry</string>
+
+
+
+</resources>
