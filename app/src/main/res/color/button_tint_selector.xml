@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Цвет при нажатии -->
+ 
     <item android:state_pressed="true" android:color="#0000FF" />
-    <!-- Цвет при наведении (фокусе) -->
+
     <item android:state_focused="true" android:color="#0000FF" />
-    <!-- Цвет по умолчанию -->
+
     <item android:color="#1E3A8A" />
 </selector>
